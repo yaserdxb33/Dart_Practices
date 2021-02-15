@@ -250,6 +250,7 @@ noor: for (int i=1;i<=3;i++){
       continue noor;
     }
     print("$i $j");
+    print("hello world");
   }
 }
 
